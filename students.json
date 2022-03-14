@@ -1,0 +1,104 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "john",
+      "age": "30",
+      "email": "Chaitanya@gmail.com",
+      "english": 90,
+      "maths": 90,
+      "science": 90,
+      "social": 100
+    },
+    {
+      "id": 2,
+      "name": "steves",
+      "age": "28",
+      "email": "Steve@gmail.com",
+      "english": "89",
+      "maths": "72",
+      "science": "90",
+      "social": "79"
+    },
+    {
+      "id": 3,
+      "name": "Peter",
+      "age": "32",
+      "email": "Peter",
+      "english": "30",
+      "maths": "30",
+      "science": "30",
+      "social": "30"
+    },
+    {
+      "id": 4,
+      "name": "Chaitanyaa",
+      "age": "28",
+      "email": "Chaitanya@gmail.com",
+      "english": 40,
+      "maths": 50,
+      "science": 40,
+      "social": "32"
+    },
+    {
+      "id": 5,
+      "name": "sam",
+      "age": "28",
+      "email": "sam@gmail.com",
+      "english": 95,
+      "maths": 90,
+      "science": 88,
+      "social": 92
+    },
+    {
+      "id": 6,
+      "name": "rop",
+      "age": "28",
+      "email": "rop@gmail.com",
+      "english": 78,
+      "maths": 65,
+      "science": 72,
+      "social": 61
+    },
+    {
+      "id": 7,
+      "name": "arya",
+      "age": "28",
+      "email": "arya@gmail.com",
+      "english": 38,
+      "maths": 40,
+      "science": 50,
+      "social": 61
+    },
+    {
+      "id": 7,
+      "name": "stanza",
+      "age": "28",
+      "email": "stanza@gmail.com",
+      "english": 75,
+      "maths": 80,
+      "science": 82,
+      "social": 87
+    },
+    {
+      "id": 8,
+      "name": "kim",
+      "age": "23",
+      "email": "kim@gmail.com",
+      "english": 90,
+      "maths": 92,
+      "science": 90,
+      "social": 95
+    },
+    {
+      "id": 9,
+      "name": "kendal",
+      "age": "23",
+      "email": "kendal@gmail.com",
+      "english": "60",
+      "maths": 80,
+      "science": 90,
+      "social": 95
+    }
+  ]
+}
